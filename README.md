@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-I am able to code with: c++, python, javascript, matlab
+I am able to code with: c++, python, javascript, matlab, Rust
 
-I am currently learning: Rust🦀
+I am currently learning: nuclear engineering ☢️
 
 ## Recent plan
 
 - find some interesting frontend things to put on my personal website
-- explore some esolangs
+- finish my tuozhu-cup project
+- try some ctf contests
 
 ## Contact
 
