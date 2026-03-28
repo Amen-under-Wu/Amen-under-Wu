@@ -7,7 +7,7 @@ I am currently learning: nuclear engineering ☢️
 ## Recent plan
 
 - find some interesting frontend things to put on my personal website
-- finish my tuozhu-cup project
+- finish my wheel and the fallen spire on it
 - try some ctf contests
 
 ## Contact
