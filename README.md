@@ -4,6 +4,8 @@ I am able to code with: c++, python, javascript, matlab, Rust
 
 I am currently learning: nuclear engineering ☢️
 
+My personal homepage 🏠: [amen-under-wu.github.io](https://amen-under-wu.github.io)
+
 ## Recent plan
 
 - find some interesting frontend things to put on my personal website
