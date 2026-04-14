@@ -1,3 +1,7 @@
+*几时归去，做个闲人，*
+
+*对一张 tracker、一幅 canvas、一尺 nvim？*
+
 ## Hi there 👋
 
 I am able to code with: c++, python, javascript, matlab, Rust
@@ -10,7 +14,7 @@ My personal homepage 🏠: [amen-under-wu.github.io](https://amen-under-wu.githu
 
 - find some interesting frontend things to put on my personal website
 - finish my wheel and the fallen spire on it
-- try some ctf contests
+- try to create some art
 
 ## Contact
 
